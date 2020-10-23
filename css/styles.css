@@ -10,7 +10,7 @@ body {
   transition: 1.2s;
 }
 body #container {
-  max-width: 2400px;
+  width: 100%;
   height: auto;
   display: -webkit-box;
   display: -ms-flexbox;
